@@ -1,0 +1,2 @@
+beta,train_mse_all,val_mse_all,test_mse_all,test_mae_all,test_mse_low,test_mae_low,test_mse_med,test_mae_med,test_mse_high,test_mae_high
+1,0.7937926461469138,0.7982342040661361,0.7972960222648806,0.7043805908612255,1.0182309,0.80081475,0.81948274,0.71699184,0.7638511,0.68750376
